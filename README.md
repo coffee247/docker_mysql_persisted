@@ -1,7 +1,7 @@
 A docker-compose soolution to create a locally hosted MySql service having data persisted in a local folder.
 ![phpMyAdmin login page](phpMyAdmin.png)
 
-# A set of command-line BASH scripts to build, run, stop, or remove a MySq server and database in a docker container. [[1]](#1).
+# A set of command-line BASH scripts to build, run, stop, or remove a MySq server and database in a docker container.
 
 
 ****
